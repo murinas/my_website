@@ -2,4 +2,4 @@
 
 ### Let's upload a picture
 
-![me again](https://github.com/murinas/my_website/blob/master/far%20view.JPG)
+![me again](https://github.com/murinas/my_website/blob/master/far-view.JPG)
