@@ -2,4 +2,5 @@
 
 ### Let's uplaod a picture
 
-![far view](/assets/images/tux.png)
+![far view](my_website/far view.JPG)
+      
