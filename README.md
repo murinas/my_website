@@ -1,2 +1,5 @@
-# my_website
-Creating a personal website
+# This is the website of Senad Murina
+
+### Let's uplaod a picture
+
+![Tux, the Linux mascot](/assets/images/tux.png)
