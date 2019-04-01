@@ -2,5 +2,4 @@
 
 ### Let's uplaod a picture
 
-![far view](my_website/far view.JPG)
-      
+![this is me](https://raw.githubusercontent.com/murinas/my_website/far view.JPG)
