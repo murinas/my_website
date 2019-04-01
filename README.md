@@ -2,4 +2,4 @@
 
 ### Let's upload a picture
 
-![alt text](far-view.JPG)
+![alt text](far-view1.png.JPG)
