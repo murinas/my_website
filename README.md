@@ -1,5 +1,5 @@
 # This is the website of Senad Murina
 
-### Let's uplaod a picture
+### Let's upload a picture
 
-![this is me](https://raw.githubusercontent.com/murinas/my_website/far view.JPG)
+![me again](https://github.com/murinas/my_website/blob/master/far%20view.JPG)
