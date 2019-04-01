@@ -2,4 +2,4 @@
 
 ### Let's uplaod a picture
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![far view](/assets/images/tux.png)
