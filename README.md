@@ -2,4 +2,5 @@
 
 ### Let's upload a picture
 
-![me again](my_website/far-view.JPG)
+![alt text](https://github.com/murinas/my_website/blob/master/far-view1.png "Logo Title Text 1")
+
